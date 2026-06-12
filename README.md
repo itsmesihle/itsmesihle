@@ -1,62 +1,74 @@
 ## Hi there, I'm Sihle Ndlovu 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insight;Data+Specialist;Extracting+The+Insight+Out+Of+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Python+%26+Relational+Data+Specialist;Building+Scalable+Architectures;Data+Analysis+%26+Insights+Explorer" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/itsmesihle"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:msihlesndlovu97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+---
+
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a **Junior Software Developer and Backend Python Specialist** with a profound interest in data analysis and systems architecture. I specialize in turning complex logic into modular, object-oriented systems and transforming raw application data into actionable engineering and business insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My sweet spot is at the intersection of **Backend Development** (building clean APIs, robust data layers, and automated DevOps workflows) and **Data Analytics** (designing database schemas, performing statistical trend analysis, and building functional analytical pipelines). 
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Whether engineering an optimized database architecture or extracting performance metrics from a production data store, I focus on building reliable, maintainable software. **I am actively seeking professional opportunities across both Backend Engineering and Data/Analytics paths.**
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://itsmesihle.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+### 🌐 [🏆 Check Out My Full Portfolio Website](https://itsmesihle.github.io/)
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+---
 
-## 🌱 Currently Learning 
+## 🚀 Featured Projects
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+### 🐳 [Rock-Paper-Scissors CLI Game](https://github.com/itsmesihle/RPS-CLI-Game)
+A clean, modular, object-oriented Python command-line system featuring a multi-stage Docker build, an automated test runner via GitHub Actions CI, and an integrated relational data-logging engine.
+
+* **The Backend Architecture:** Designed using a *Layered Orchestration* paradigm to strictly segregate stateless business execution logic from stateful storage layers.
+* **The Data Edge:** Engineered a data migration pipeline that ingests legacy flat-file CSV logs and normalizes them into atomic SQL transactions via **SQLite3**, allowing for programmatic historical trend extraction.
+* **DevOps & Integrity:** Containerized and published directly to **[Docker Hub](https://hub.docker.com/r/itsmesihle/rps-cli-game)** for zero-dependency, instant client-side execution.
+* 📖 **Case Study:** Read my deep dive on Medium: *[From Script to System: Embracing Loose Coupling and Dependency Injection in Python](https://medium.com/@itsmesihle/from-script-to-system-embracing-loose-coupling-and-dependency-injection-in-python-162461da29c4)*
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- **DevOps Infrastructure:** Automating Docker container image publishing and pipeline releases using GitHub Actions workflows.
+- **Cloud Foundations:** Preparing for the AWS Cloud Practitioner curriculum to explore cloud data storage and scalable hosting methodologies.
+- **Advanced Data Operations:** Expanding database querying methods toward heavier analytical aggregations and relational index optimisations.
+
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### 🖥️ Backend Architecture & Programming Languages
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
 </p>
 
-#### Programming & Automation
+#### 🐳 DevOps, Testing & Cloud Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge">
 </p>
 
-#### Business Intelligence & Analytics!
+#### 📊 Data Analysis & Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
+</p>
+
+#### 🧠 Methodologies & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-Modular-blue" alt="OOP Badge">
+  <img src="https://img.shields.io/badge/Data_Persistence-Relational_Schemas-green" alt="Data Persistence Badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-Core-orange" alt="Statistical Analysis Badge">
 </p>
