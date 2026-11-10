@@ -18,7 +18,7 @@ My sweet spot is at the intersection of **Backend Development** (building clean 
 
 Whether engineering an optimized database architecture or extracting performance metrics from a production data store, I focus on building reliable, maintainable software. **I am actively seeking professional opportunities across both Backend Engineering and Data/Analytics paths.**
 
-### 🌐 [🏆 Check Out My Full Portfolio Website](https://itsmesihle.github.io/)
+<!-- ### 🌐 [🏆 Check Out My Full Portfolio Website](https://itsmesihle.github.io/) -->
 
 ---
 
